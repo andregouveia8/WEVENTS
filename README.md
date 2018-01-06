@@ -3,7 +3,7 @@
 Repository - https://github.com/ESMADIPP/wEvents
 
 
-https://wevents.webitcloud.net/index.html -> Link to see the project
+Link to see the project - https://wevents.webitcloud.net/index.html
 
 To see this website you need to install Allow-Control-Allow-Origin extension of Chrome.
 
