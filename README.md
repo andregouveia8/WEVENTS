@@ -10,5 +10,5 @@ Link to Extension - https://chrome.google.com/webstore/detail/allow-control-allo
 
 Developed with:
 
-João Santos - https://github.com/joaorafaelsantos 
+João Santos - https://github.com/joaorafaelsantos <br>
 Francisco Moreira - https://github.com/FranciscoMoreira32
